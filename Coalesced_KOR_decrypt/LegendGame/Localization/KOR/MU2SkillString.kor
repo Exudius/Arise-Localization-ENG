@@ -1917,7 +1917,7 @@ Skill_901042=Explosive Shot Inflicts 30% Additional Damage and Sets Critical Rat
 Skill_901050=Multi Kill Increases MP Recovery by 10% for 3 Seconds
 Skill_901051=Multi Shot Creates Chance of 100% Additional Damage
 Skill_901052=Multi Kill Creates Chance of 100% Additional Damage and Stuns for 2 Seconds
-Skill_901060=Hallucinatory Infection Cooldown Decreases by 20%
+Skill_901060=Hallucinatory Infection Cooldown Decreases by 80%
 Skill_901061=Binding Blizzard Inflicts 20% Additional Damage
 Skill_901062=Hallucinatory Infection Increases Critical Rate by 5% for 5 Seconds and Resets Binding Blizzard Cooldown
 Skill_901070=Bloodfest Cooldown Decreases by 20%
@@ -4412,13 +4412,13 @@ Skill_14201=Throws a hook and pulls enemies toward you, inflicting damage at <fo
 Skill_14301=A Holy Light descends, immediately restoring <font color='#FE6D03'>$eff:14301001:a:i$%</font> HP for you and surrounding allies and decreasing MP costs by <font color='#FE6D03'>$eff:14301000:a:i$%</font> for <font color='#FED700'>$eff:14301000:dur:f10$ seconds</font>.
 Skill_14401=A healing light purifies a selected area, restoring <font color='#FE6D03'>$eff:14401002:a:i$%</font> of Max MP for you and surrounding allies, removing abnormal status effects cast on you and them, and also granting immunity to abnormal statuses for <font color='#FED700'>2 seconds</font>.
 Skill_14402=
-Skill_14501=Casts a massive shield that increases your Defense by <font color='#FE6D03'>$eff:14501000:a:i$%</font> and creates another shield to absorb incoming damage <font color='#FED700'>once</font> for <font color='#FED700'>$eff:14501000:dur:f10$ seconds</font>. This skill ignores Critical damage, and stuns surrounding monsters for <font color='#FED700'>$eff:14501002:dur:f10$ seconds</font>.
+Skill_14501=Casts a massive shield that increases your Defense by <font color='#FE6D03'>$eff:14501000:a:i$%</font> and creates another shield to absorb incoming damage <font color='#FED700'>once</font> for <font color='#FED700'>7.00 seconds</font>. This skill ignores Critical damage, and stuns surrounding monsters for <font color='#FED700'>$eff:14501002:dur:f10$ seconds</font>.
 Skill_15001=Summons a healing area around a selected spot, restoring 5% HP per second for <font color='#FE6D03'>$eff:15001001:dur:f10$ seconds</font> for all party members within that area.
 Skill_15101=Instantly pulls all surrounding enemies toward you, and then explodes the condensed energy, inflicting AoE damage at <font color='#FE6D03'>$eff:911110001:a:i$%</font> of Attack. This skill casts a shield that absorbs as much damage as <font color='#FE6D03'>(5/10/15/20/25)</font> of your Max HP for <font color='#FED700'>8 seconds</font>, depending on the pulled targets (1/3/5/7/10).
 Skill_15102=
 Skill_15103=
 Skill_15104=
-Skill_15201=Wrap oneself with power of darkness to pursue enemy. When skill is activated, increases movement speed by <font color='#FED700'>40%</font>, decreases damage received by <font color='#FED700'>30%</font> and ignore all collision.<br> When reactivated within 5 seconds of skill activation, deal <font color='#FE6D03'>2900%</font> of Attack as area damage and lift up.  Create barrier that blocks damage of <font color='#FE6D03'>(5%/10%/15%/20%/25%)</font> of max HP for <font color='#FED700'>8 seconds</font> per lifted number (1/3/5/7/10).
+Skill_15201=Wrap oneself with power of darkness to pursue enemy. When skill is activated, increases movement speed by <font color='#FED700'>30%</font>, decreases damage received by <font color='#FED700'>30%</font> and ignore all collision.<br> When reactivated within 5 seconds of skill activation, deal <font color='#FE6D03'>2900%</font> of Attack as area damage and lift up.  Create barrier that blocks damage of <font color='#FE6D03'>(5%/10%/15%/20%/25%)</font> of max HP for <font color='#FED700'>8 seconds</font> per lifted number (1/3/5/7/10).
 Skill_15202=Summons a destructive stone pillar that inflicts AoE damage on all surrounding targets at <font color='#FE6D03'>$eff:15202000:a:i$%</font> of Attack and decreases their Movement Speed by <font color='#FE6D03'>$eff:15202001:a:i$%</font> for <font color='#FED700'>$eff:15202001:dur:f10$ seconds</font>.
 Skill_15211=
 Skill_15301=For <font color='#FED700'>$eff:15301000:dur:f10$ seconds</font>, increases Surrounding Ally Attack by <font color='#FE6D03'>$eff:15301002:a:i$%</font>, Movement Speed by <font color='#FE6D03'>$eff:15301000:a:i$%</font>, Attack Speed by <font color='#FE6D03'>$eff:15301001:a:i$%</font>, and Critical Rate by <font color='#FE6D03'>$eff:15301003:a:i$%</font>.

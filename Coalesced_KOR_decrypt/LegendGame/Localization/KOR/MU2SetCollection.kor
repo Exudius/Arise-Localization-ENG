@@ -179,9 +179,9 @@ Card_43001_3=Additional 30% Damage for <font color='#F4B836'>Explosive Shot</fon
 Card_43002_1=Mana Regeneration increased by 10% for 3 seconds when <font color='#F4B836'>Multiple Slaughterer</font> is used
 Card_43002_2=100% Additional Damage when multiple fire is used
 Card_43002_3=100% Additional Damage and stun for 2 seconds when <font color='#F4B836'>Multi Shot</font> is used
-Card_44001_1=<font color='#F4B836'>Hallucinatory Infection</font> cooldown time decreased by 20%
-Card_44001_2=<font color='#F4B836'>Binding Blizzard</font> deals 200% additional damage
-Card_44001_3=Attack is increased by 15% for 5 seconds when <font color='#F4B836'>Hallucinatory Infection</font> is used and additionally resets cooldown time for <font color='#F4B836'>Binding Blizzard</font>
+Card_44001_1=<font color='#F4B836'>Hallucinatory Infection</font> cooldown time decreased by 80%
+Card_44001_2=<font color='#F4B836'>Binding Blizzard</font> deals 350% additional damage
+Card_44001_3=Attack is increased by 30% for 5 seconds when <font color='#F4B836'>Hallucinatory Infection</font> is used and additionally resets cooldown time for <font color='#F4B836'>Binding Blizzard</font>
 Card_44002_1=<font color='#F4B836'>Bloodfest</font> cooldown time decreased by 20%
 Card_44002_2=Damage increased by 300% of Attack by when <font color='#F4B836'>Cold Murder</font> is used
 Card_44002_3=Damage increased by 300% of Attack increased by 10% for 3 seconds when <font color='#F4B836'>Bloodfest</font> is used
@@ -377,8 +377,8 @@ Card_72001_3=Reset <font color='#F4B836'>Fierce Rage</font> cooldown time for 3 
 Card_73001_1=200% Additional Damage for <font color='#F4B836'>Bombardment</font>
 Card_73001_2=Increase Critical Damage by 150% for 5 seconds when <font color='#F4B836'>Madness Power</font> is used
 Card_73001_3=Reset <font color='#F4B836'>Bombardment</font> cooldown time for 3 seconds when <font color='#F4B836'>Poison Throw</font> is used
-Card_74001_1=500% Additional Damage for <font color='#F4B836'>Fire Curtain</font>
-Card_74001_2=300% Additional Damage for <font color='#F4B836'>Meteor Drop</font>
+Card_74001_1=550% Additional Damage for <font color='#F4B836'>Fire Curtain</font>
+Card_74001_2=350% Additional Damage for <font color='#F4B836'>Meteor Drop</font>
 Card_74001_3=Resets <font color='#F4B836'>Meteor Drop</font> cooldown time when <font color='#F4B836'>Fire Curtain</font> is used
 Card_75001_1=355% Additional Damage for <font color='#F4B836'>Phantom Rampant</font>
 Card_75001_2=Increase Critical Damage Rate by 75% for 5 seconds when <font color='#F4B836'>Illusion Gate</font> is used
